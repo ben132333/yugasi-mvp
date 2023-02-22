@@ -2,21 +2,22 @@
 
 ## Introduction
 
-This is a proof of concept of a project called yugasi: https://yugasi.com/
+This is a proof of concept for a project called Yugasi: https://yugasi.com/
 
-The idea is to immportalise, own, and share your persnal legacy on-chain. 
+The idea is to immortalize, own, and share your personal legacy on-chain. 
 
 POC features:
 - ERC721 contract: any user can mint a Yugasi NFT
 - The owner of an NFT has the ability to make any token soulbound
-- Adter the user activates "SoulBound," they can add N items to their Yugasi. This is similar to customising an ENS domain (see the "TextResolver" contract in ENS). 
+- After the user activates "SoulBound," they can add N items to their Yugasi. This is like customizing an ENS domain (see the "TextResolver" contract in ENS). 
 - Experimental front-end to interact with the smart contract. 
 
 Status: 
-- the code is functional but still sloppy
-- test needs to be written
-- security needs to be considered
-- gas optimisation needs to be considered
+- Functional POC ready
+- TODO: code cleanup
+- TODO: write tests
+- TODO: consider security threats of smart contracts
+- TODO: consider gas optimization
 
 ## POC Live
 
@@ -30,5 +31,5 @@ https://goerli.etherscan.io/address/0x7ab7507904d28de85a1a4b0f02c96d9af1c416d0#c
 
 Clone this repo: 
 
-This dapp is built with scaffold-eth as development environment. Check the prerequisite installations and how to run this repo in localhost. 
-
+This dapp is built with scaffold-eth as the development environment. Check the prerequisite installations and how to run this repo in localhost:  
+https://github.com/scaffold-eth/scaffold-eth/blob/master/README.md
