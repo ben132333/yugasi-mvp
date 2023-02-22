@@ -30,6 +30,9 @@ https://goerli.etherscan.io/address/0x7ab7507904d28de85a1a4b0f02c96d9af1c416d0#c
 # Setup 
 
 Clone this repo: 
+```bash
+git clone https://github.com/ben132333/yugasi-mvp.git
+```
 
 This dapp is built with scaffold-eth as the development environment. Check the prerequisite installations and how to run this repo in localhost:  
 https://github.com/scaffold-eth/scaffold-eth/blob/master/README.md
