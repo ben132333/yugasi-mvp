@@ -68,4 +68,4 @@ yarn.lock
 packages/hardhat/mnemonic.txt
 packages/hardhat/0xe242e3ca470b0800d9ddf83de2938e1183edfa7c.txt
 
-.vscode
+.vscode/settings.json
